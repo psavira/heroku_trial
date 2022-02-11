@@ -2,10 +2,6 @@
   "name": "heroku_trial",
   "version": "1.0.0",
   "description": "To try heroku",
-  "author": {
-    "name":"Pam Savira",
-    "email": "savi2586@stthomas.edu",
-  },
   "main": "apps.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
